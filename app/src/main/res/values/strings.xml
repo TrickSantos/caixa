@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Caixa</string>
+    <string name="FACEBOOK_APP_ID">194373814775511</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">134fb1c4ad1852e86bb51370b12a5291</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
